@@ -1,0 +1,30 @@
+.flags-cont div {
+  margin: 5px;
+  background-size: 32px;
+  background-position: center;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.RUB {
+  background: url('./icons/RUS.svg') no-repeat;
+}
+.USD {
+  background: url('./icons/USD.svg') no-repeat;
+}
+.CNY {
+  background: url('./icons/CNY.svg') no-repeat;
+}
+.BRL {
+  background: url('./icons/BRL.svg') no-repeat;
+}
+.CAD {
+  background: url('./icons/CAD.svg') no-repeat;
+}
+.AUD {
+  background: url('./icons/AUD.svg') no-repeat;
+}
+.JPY {
+  background: url('./icons/JPY.svg') no-repeat;
+  grid-column-start: 2;
+}

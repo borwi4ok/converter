@@ -1,0 +1,11 @@
+.result-cont {
+  text-align: center;
+  margin: auto;
+  display: grid;
+  position: relative;
+}
+
+.result-cont span {
+  font-size: 24px;
+  font-weight: 400;
+}

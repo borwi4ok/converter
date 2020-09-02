@@ -1,0 +1,17 @@
+.input-cont input {
+  display: block;
+  border: none;
+  border: 1px solid #7d7e80;
+  border-radius: 8px;
+  outline: none;
+  transition: all ease 0.2s;
+}
+
+.input-cont input:focus {
+  display: block;
+  transform: scale(1.1);
+  transition: all ease 0.2s;
+  border: 1.5px solid #555555;
+  border-radius: 8px;
+  background-color: #e7eafe;
+}
